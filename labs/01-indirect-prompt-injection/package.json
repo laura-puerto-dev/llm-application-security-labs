@@ -1,0 +1,11 @@
+{
+  "name": "indirect-prompt-injection-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node attack.js"
+  },
+  "dependencies": {
+    "openai": "^6.0.0"
+  }
+}
